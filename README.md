@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Monish282005/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
+| [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Trie
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
