@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
