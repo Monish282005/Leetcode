@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Monish282005/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
 | ------- |
