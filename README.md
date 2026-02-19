@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Design
