@@ -14,27 +14,28 @@
  * }
  */
 class Solution {
-    int max = 0, val = 0;
-
-    public void find(TreeNode root, int height) {
-        if (root == null)
-            return;
-
-        if (root.left == null && root.right == null && height > max) {
-            val = root.val;
-            max = height;
-            return;
-        }
-
-        find(root.left, height + 1);
-        find(root.right, height + 1);
-
-    }
-
     public int findBottomLeftValue(TreeNode root) {
-        if (root.left == null && root.right == null)
-            return root.val;
-        find(root, 0);
-        return val;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        TreeNode cur = root;
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            boolean isFirst = true;
+            
+            while (size-- > 0) {
+                TreeNode temp = q.poll();
+                if (isFirst) {
+                    cur = temp;
+                    isFirst = !isFirst;
+                }
+
+                if (temp.left != null)
+                    q.offer(temp.left);
+                if (temp.right != null)
+                    q.offer(temp.right);
+            }
+        }
+        return cur.val;
     }
 }
