@@ -1,12 +1,7 @@
 class Solution {
     public boolean isValid(int i) {
-        int ones = 0;
-        while (i > 0) {
-            if (i % 2 == 1)
-                ones++;
-            i /= 2;
-        }
-
+        int ones = Integer.bitCount(i);
+        
         if (ones <= 1)
             return false;
 
