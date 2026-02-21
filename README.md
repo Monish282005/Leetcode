@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
