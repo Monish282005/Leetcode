@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
