@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Monish282005/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Monish282005/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
