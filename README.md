@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Monish282005/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
