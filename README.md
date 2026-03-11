@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Monish282005/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/Monish282005/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Monish282005/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
