@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Monish282005/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0419-battleships-in-a-board](https://github.com/Monish282005/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Monish282005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Monish282005/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
+| [0419-battleships-in-a-board](https://github.com/Monish282005/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Monish282005/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Stack
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Monish282005/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Monish282005/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/Monish282005/Leetcode/tree/master/0563-binary-tree-tilt) |
