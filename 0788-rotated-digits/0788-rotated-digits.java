@@ -1,38 +1,29 @@
 class Solution {
-    public boolean find(Map<Integer, Integer> mp, int n, Map<Integer, Integer> inValid) {
-        boolean unique = false;
-        while (n > 0) {
-            int num = n % 10;
-            if (inValid.containsKey(num))
+    public boolean isGood(int n){
+        boolean isUnique = false;
+
+        while(n != 0){
+            int rem = n % 10;
+
+            if(rem == 3 || rem == 7 || rem == 4)
                 return false;
 
-            if (mp.containsKey(num)) {
-                unique = true;
-            }
+            if(rem == 2 || rem == 5 || rem == 6 || rem == 9)
+                isUnique = true;
+
             n /= 10;
         }
 
-        return unique;
+        return isUnique;
     }
-
     public int rotatedDigits(int n) {
-        int ans = 0;
-        Map<Integer, Integer> mp = new HashMap<>();
-        Map<Integer, Integer> inValid = new HashMap<>();
-        mp.put(2, 1);
-        mp.put(5, 1);
-        mp.put(6, 1);
-        mp.put(9, 1);
-
-        inValid.put(3, 1);
-        inValid.put(4, 1);
-        inValid.put(7, 1);
-
-        for (int i = 1; i <= n; i++) {
-            if (find(mp, i, inValid)) {
-                ans++;
+        int res = 0;
+        for(int i = 2; i <= n; i++){
+            if(isGood(i)){
+                res++;
             }
         }
-        return ans;
+
+        return res;
     }
 }
