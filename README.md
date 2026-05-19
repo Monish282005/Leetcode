@@ -328,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Monish282005/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/Monish282005/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
