@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Monish282005/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0626-exchange-seats](https://github.com/Monish282005/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
