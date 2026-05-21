@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Monish282005/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/Monish282005/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0626-exchange-seats](https://github.com/Monish282005/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
