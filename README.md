@@ -332,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Monish282005/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
