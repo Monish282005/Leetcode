@@ -4,5 +4,4 @@ from Product p
 join Sales s
 on p.product_id = s.product_id
 group by s.product_id
-having max(sale_date) between '2019-01-01' and '2019-03-31'
-and min(sale_date) between '2019-01-01' and '2019-03-31'
+having sum(sale_date between '2019-01-01' and '2019-03-31') = count(*)
