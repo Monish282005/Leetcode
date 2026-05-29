@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
