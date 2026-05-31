@@ -1,19 +1,13 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int res = 0;
-        int m = candyType.length/2;
-        Map<Integer, Integer> mp = new HashMap<>();
+        Set<Integer> st = new HashSet<>();
 
-
-        for(int i: candyType){
-            if(!mp.containsKey(i)){
-                if(res < m){
-                    res++;
-                    mp.put(i, 1);
-                }else break;
-            }
+        for(int i : candyType){
+            if(st.size() < candyType.length/2)
+            st.add(i);
+            else break;
         }
 
-        return res;
+        return st.size();
     }
 }
