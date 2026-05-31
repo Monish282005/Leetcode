@@ -1,19 +1,19 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int m = candyType.length;
-        Arrays.sort(candyType);
-        int n = m/2;
-
         int res = 0;
-        int prev = Integer.MAX_VALUE;
+        int m = candyType.length/2;
+        Map<Integer, Integer> mp = new HashMap<>();
+
+
         for(int i: candyType){
-            if(prev != i){
-                if(res < n){
+            if(!mp.containsKey(i)){
+                if(res < m){
                     res++;
-                    prev = i;
-                }
+                    mp.put(i, 1);
+                }else break;
             }
         }
+
         return res;
     }
 }
