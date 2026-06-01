@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Monish282005/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Monish282005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Monish282005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Monish282005/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
