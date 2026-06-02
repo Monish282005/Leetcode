@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Monish282005/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/Monish282005/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Monish282005/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Monish282005/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
