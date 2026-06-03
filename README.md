@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Monish282005/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0626-exchange-seats](https://github.com/Monish282005/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1084-sales-analysis-iii](https://github.com/Monish282005/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Monish282005/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Monish282005/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Monish282005/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
