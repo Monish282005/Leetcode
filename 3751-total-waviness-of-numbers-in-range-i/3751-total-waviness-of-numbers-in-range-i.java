@@ -1,33 +1,32 @@
 class Solution {
-    public String convert(int n){
-        StringBuilder sb = new StringBuilder();
-
-        while(n != 0){
-            int rem = n % 10;
-            n /= 10;
-            sb.append(rem);
-        }
-
-        return sb.toString();
-    }
     public int totalWaviness(int num1, int num2) {
         int sum = 0;
+        
+        // Reusable array to hold digits of the current number
+        int[] digits = new int[6]; 
 
-        while(num1 <= num2){
-            if(num1 > 100){
-                String s = convert(num1);
-                
-                for(int i = 0; i < s.length(); i++){
-                    if(i > 0 && i < s.length() - 1){
-                        int cur = s.charAt(i);
-                        int prev = s.charAt(i - 1);
-                        int next = s.charAt(i + 1);
+        while (num1 <= num2) {
+            if (num1 > 100) {
+                int temp = num1;
+                int len = 0;
 
-                        if(prev < cur && cur > next || prev > cur && cur < next)
-                            sum++;
+                // Extract digits into the array (stores them in reverse order)
+                while (temp > 0) {
+                    digits[len] = temp % 10;
+                    temp /= 10;
+                    len++;
+                }
 
+                // Check for wavy patterns using the array indexes
+                for (int i = 1; i < len - 1; i++) {
+                    int prev = digits[i - 1];
+                    int cur = digits[i];
+                    int next = digits[i + 1];
+
+                    if ((prev < cur && cur > next) || (prev > cur && cur < next)) {
+                        sum++;
                     }
-                }   
+                }
             }
             num1++;
         }
