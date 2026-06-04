@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Monish282005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
