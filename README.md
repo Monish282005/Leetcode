@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Monish282005/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Monish282005/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Monish282005/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
+| [1179-reformat-department-table](https://github.com/Monish282005/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Monish282005/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Monish282005/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
