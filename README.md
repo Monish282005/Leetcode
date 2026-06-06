@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Monish282005/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
