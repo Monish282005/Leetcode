@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Monish282005/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0575-distribute-candies](https://github.com/Monish282005/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String
 | Problem Name | Difficulty |
