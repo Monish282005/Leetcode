@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Monish282005/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
