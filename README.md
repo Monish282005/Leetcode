@@ -385,5 +385,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Monish282005/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Monish282005/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Monish282005/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
