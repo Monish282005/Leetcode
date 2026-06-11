@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Monish282005/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Monish282005/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Monish282005/Leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Monish282005/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
