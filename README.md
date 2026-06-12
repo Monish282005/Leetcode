@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/Monish282005/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/Monish282005/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Monish282005/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/Monish282005/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Monish282005/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Monish282005/Leetcode/tree/main/1393-capital-gainloss/) | Medium |
