@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Monish282005/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Monish282005/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Monish282005/Leetcode/tree/master/1306-jump-game-iii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Monish282005/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Monish282005/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Monish282005/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Monish282005/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Monish282005/Leetcode/tree/master/1306-jump-game-iii) |
 | [1609-even-odd-tree](https://github.com/Monish282005/Leetcode/tree/master/1609-even-odd-tree) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Monish282005/Leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Monish282005/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
