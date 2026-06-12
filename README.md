@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Monish282005/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0575-distribute-candies](https://github.com/Monish282005/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Monish282005/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1306-jump-game-iii](https://github.com/Monish282005/Leetcode/tree/master/1306-jump-game-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Monish282005/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0575-distribute-candies](https://github.com/Monish282005/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Monish282005/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Monish282005/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
