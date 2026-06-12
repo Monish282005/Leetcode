@@ -2,7 +2,7 @@
 
 select name from Employee
 where id in (
-    select managerId as id from Employee
+    select managerId  from Employee
     where managerId is not null
     group by managerId
     having(count(*)) >= 5
