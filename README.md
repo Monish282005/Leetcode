@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/Monish282005/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Monish282005/Leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Monish282005/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1907-count-salary-categories](https://github.com/Monish282005/Leetcode/tree/main/1907-count-salary-categories/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
