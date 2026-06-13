@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Monish282005/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Monish282005/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Monish282005/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/Monish282005/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Monish282005/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Monish282005/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
