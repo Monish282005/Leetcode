@@ -10,19 +10,32 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        List<Integer> list = new ArrayList<>();
+        ListNode slow = head;
+        ListNode fast = head.next;
 
-        ListNode node = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
 
-        while(node != null){
-            list.add(node.val);
-            node = node.next;
+        ListNode prev = null;
+        ListNode secondHalf = slow.next;
+        slow.next = null;
+        ListNode next = null;
+
+        while (secondHalf != null) {
+            next = secondHalf.next;
+            secondHalf.next = prev;
+            prev = secondHalf;
+            secondHalf = next;
         }
 
         int maxTwin = Integer.MIN_VALUE;
-
-        for(int i = 0; i < list.size()/2; i++){
-            maxTwin = Math.max(maxTwin, list.get(i) + list.get(list.size() - i - 1));
+        secondHalf = prev;
+        while(head != null){
+            maxTwin = Math.max(head.val + secondHalf.val, maxTwin);
+            head = head.next;
+            secondHalf = secondHalf.next;    
         }
 
         return maxTwin;
