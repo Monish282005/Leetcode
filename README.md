@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/Monish282005/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Monish282005/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Monish282005/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Monish282005/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Monish282005/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
