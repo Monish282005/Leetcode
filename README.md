@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Monish282005/Leetcode/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Monish282005/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/Monish282005/Leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Monish282005/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
