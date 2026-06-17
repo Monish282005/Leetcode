@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/Monish282005/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Monish282005/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Monish282005/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Monish282005/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
