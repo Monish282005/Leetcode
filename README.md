@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/Monish282005/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Monish282005/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Monish282005/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Monish282005/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
