@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Monish282005/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Monish282005/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0575-distribute-candies](https://github.com/Monish282005/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Monish282005/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monish282005/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Monish282005/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Monish282005/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monish282005/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/Monish282005/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Monish282005/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
