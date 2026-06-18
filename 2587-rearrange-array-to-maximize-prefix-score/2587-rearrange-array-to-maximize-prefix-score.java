@@ -10,11 +10,13 @@ class Solution {
 
         long maxScore = 0;
         int score = 0;
-        for (int i : nums){
-                maxScore += i;
-                if(maxScore > 0)
-                    score++;
+        for (int i : nums) {
+            maxScore += i;
+            if (maxScore > 0)
+                score++;
+            else break;
         }
+
         return score;
 
     }
