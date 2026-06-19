@@ -1,6 +1,6 @@
 class Solution {
     public int valueAfterKSeconds(int n, int k) {
-        long prefix[] = new long[n];
+        int prefix[] = new int[n];
         Arrays.fill(prefix, 1);
 
         while(k-- > 0){
@@ -9,6 +9,6 @@ class Solution {
             }
         }
 
-        return (int) prefix[n - 1];
+        return  prefix[n - 1];
     }
 }
