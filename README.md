@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Monish282005/Leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Monish282005/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Monish282005/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Monish282005/Leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
