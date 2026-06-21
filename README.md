@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Monish282005/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Monish282005/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Monish282005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monish282005/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
