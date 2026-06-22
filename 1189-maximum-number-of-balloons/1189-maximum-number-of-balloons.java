@@ -11,9 +11,11 @@ class Solution {
         String bal = "balloon";
 
         for(char c: bal.toCharArray()){
+            int val = fre[c - 'a'];
             if(c == 'l' || c == 'o'){
-                min = Math.min(fre[c - 'a']/2, min);
-            }else min = Math.min(fre[c - 'a'], min);
+               val /= 2;
+            }
+            min = Math.min(val, min);
         }
         return min;
     }
