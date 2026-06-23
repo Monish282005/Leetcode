@@ -8,11 +8,7 @@ WITH temp AS (
             SELECT plan_name
             FROM subscription_events se1
             WHERE se1.user_id = se.user_id
-              AND event_date = (
-                    SELECT MAX(event_date)
-                    FROM subscription_events se1
-                    WHERE se1.user_id = se.user_id
-              ) and event_id = (select max(event_id) from subscription_events se1 where se1.user_id = se.user_id) 
+              AND event_id = (select max(event_id) from subscription_events se1 where se1.user_id = se.user_id) 
         ) AS cur_plan
 
     FROM subscription_events se
