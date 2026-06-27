@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-employees-with-missing-information](https://github.com/Monish282005/Leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Monish282005/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3421-find-students-who-improved](https://github.com/Monish282005/Leetcode/tree/main/3421-find-students-who-improved/) | Medium |
+| [3436-find-valid-emails](https://github.com/Monish282005/Leetcode/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Monish282005/Leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Monish282005/Leetcode/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
