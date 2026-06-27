@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/Monish282005/Leetcode/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Monish282005/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Monish282005/Leetcode/tree/main/1393-capital-gainloss/) | Medium |
+| [1517-find-users-with-valid-e-mails](https://github.com/Monish282005/Leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Monish282005/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Monish282005/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Monish282005/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
