@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-valid-emails](https://github.com/Monish282005/Leetcode/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Monish282005/Leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Monish282005/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
+| [3586-find-covid-recovery-patients](https://github.com/Monish282005/Leetcode/tree/main/3586-find-covid-recovery-patients/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Monish282005/Leetcode/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
