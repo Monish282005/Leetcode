@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0445-add-two-numbers-ii](https://github.com/Monish282005/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Monish282005/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Monish282005/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/Monish282005/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Monish282005/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Monish282005/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Monish282005/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
