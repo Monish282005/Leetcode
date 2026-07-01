@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Monish282005/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [2739-total-distance-traveled](https://github.com/Monish282005/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Monish282005/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2739-total-distance-traveled](https://github.com/Monish282005/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Monish282005/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Recursion
