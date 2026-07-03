@@ -37,6 +37,9 @@ class Solution {
             int pass = p.k;
             int step = p.steps;
 
+            if (i == m - 1 && j == n - 1)
+                return step;
+
             for (int[] it : dir) {
                 int x = it[0] + i;
                 int y = it[1] + j;
@@ -44,28 +47,21 @@ class Solution {
                 if (x < 0 || y < 0 || x >= m || y >= n)
                     continue;
 
-                if (grid[x][y] == 1 && pass - 1 >= 0) {
-                    if (dis[x][y][pass - 1] > step + 1) {
-                        dis[x][y][pass - 1] = step + 1;
-                        pq.offer(new Pair(x, y, pass - 1, step + 1));
-                    }
-                } else if (grid[x][y] == 0) {
+                if (grid[x][y] == 0) {
                     if (dis[x][y][pass] > step + 1) {
                         dis[x][y][pass] = step + 1;
                         pq.offer(new Pair(x, y, pass, step + 1));
                     }
+                } else if (pass - 1 >= 0) {
+                    if (dis[x][y][pass - 1] > step + 1) {
+                        dis[x][y][pass - 1] = step + 1;
+                        pq.offer(new Pair(x, y, pass - 1, step + 1));
+                    }
                 }
-
             }
         }
 
-        int minSteps = Integer.MAX_VALUE;
-
-        for (int i = 0; i <= k; i++) {
-            minSteps = Math.min(minSteps, dis[m - 1][n - 1][i]);
-        }
-
-        return minSteps == Integer.MAX_VALUE ? -1 : minSteps;
+        return -1;
 
     }
 }
