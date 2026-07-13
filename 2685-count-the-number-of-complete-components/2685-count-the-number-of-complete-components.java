@@ -38,7 +38,7 @@ class Solution {
                 edge = nodes = 0;
                 dfs(adj, vis, i);
                 
-                if(edge == nodes * (nodes - 1)){
+                if(edge/2 == nodes * (nodes - 1)/2){
                     count++;
                 }
             }
