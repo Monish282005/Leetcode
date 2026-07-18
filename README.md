@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Monish282005/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monish282005/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monish282005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Monish282005/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Monish282005/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monish282005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Monish282005/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monish282005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monish282005/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union-Find
