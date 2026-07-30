@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Monish282005/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Monish282005/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Monish282005/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monish282005/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Monish282005/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monish282005/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Monish282005/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Monish282005/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Monish282005/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monish282005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Monish282005/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Monish282005/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monish282005/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
