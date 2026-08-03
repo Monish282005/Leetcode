@@ -1,23 +1,27 @@
-with temp as(
-    select distinct visited_on as visited
-    from Customer c1
-    where exists(
-        select 1 
-        from Customer c2
-        where c2.visited_on = date_add(c1.visited_on, interval 6 day)
+WITH temp AS (
+    SELECT DISTINCT visited_on AS visited 
+    FROM Customer c1 
+    WHERE EXISTS (
+        SELECT 1 
+        FROM Customer c2 
+        WHERE c2.visited_on = DATE_ADD(c1.visited_on, INTERVAL 6 DAY)
     )
-)
-
-select 
-    date_add(t1.visited, interval 6 day) as visited_on,
+) 
+SELECT 
+    DATE_ADD(t1.visited, INTERVAL 6 DAY) AS visited_on, 
     (
-        select sum(amount)
-        from customer c1
-        where c1.visited_on >= t1.visited
-        and c1.visited_on <= date_add(t1.visited, interval 6 day)
-    ) as amount,
-    round((select sum(amount)
-        from customer c1
-        where c1.visited_on >= t1.visited
-        and c1.visited_on <= date_add(t1.visited, interval 6 day))/7, 2) as average_amount
- from temp t1;
+        SELECT SUM(amount) 
+        FROM Customer c1 
+        WHERE c1.visited_on >= t1.visited 
+          AND c1.visited_on <= DATE_ADD(t1.visited, INTERVAL 6 DAY)
+    ) AS amount, 
+    ROUND(
+        (
+            SELECT SUM(amount) 
+            FROM Customer c1 
+            WHERE c1.visited_on >= t1.visited 
+              AND c1.visited_on <= DATE_ADD(t1.visited, INTERVAL 6 DAY)
+        ) / 7.0, 
+        2
+    ) AS average_amount 
+FROM temp t1;
