@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Monish282005/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Monish282005/Leetcode/tree/master/0048-rotate-image) |
@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Monish282005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Monish282005/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Monish282005/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Monish282005/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
@@ -69,8 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Monish282005/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -89,8 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -98,14 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Monish282005/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Monish282005/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Monish282005/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -115,8 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Monish282005/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Monish282005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -132,8 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Monish282005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -144,8 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Monish282005/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Monish282005/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Monish282005/Leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -159,8 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Monish282005/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Monish282005/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monish282005/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -170,20 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monish282005/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monish282005/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Monish282005/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Monish282005/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
@@ -199,9 +200,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Monish282005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Monish282005/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Monish282005/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Monish282005/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -209,12 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Monish282005/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Monish282005/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -239,8 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -249,8 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Monish282005/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Monish282005/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -273,8 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Monish282005/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Monish282005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Monish282005/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
@@ -296,21 +298,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Monish282005/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Monish282005/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Monish282005/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Monish282005/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/Monish282005/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Monish282005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Monish282005/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -325,8 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Monish282005/Leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Monish282005/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/Monish282005/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -337,8 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Monish282005/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -365,8 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Monish282005/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monish282005/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Monish282005/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Monish282005/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -377,8 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Monish282005/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Monish282005/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Monish282005/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Monish282005/Leetcode/tree/master/0189-rotate-array) |
@@ -400,8 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monish282005/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Monish282005/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Monish282005/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/Monish282005/Leetcode/tree/master/0200-number-of-islands) |
@@ -422,50 +424,50 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Monish282005/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Monish282005/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Monish282005/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Monish282005/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Monish282005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Monish282005/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Monish282005/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Monish282005/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Monish282005/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monish282005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monish282005/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Monish282005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Monish282005/Leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Monish282005/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Monish282005/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Monish282005/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Monish282005/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Monish282005/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Monish282005/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Monish282005/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -476,33 +478,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Monish282005/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Monish282005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Monish282005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Monish282005/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Monish282005/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Monish282005/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Monish282005/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/Monish282005/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/Monish282005/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Monish282005/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Monish282005/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
@@ -553,8 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3586-find-covid-recovery-patients](https://github.com/Monish282005/Leetcode/tree/main/3586-find-covid-recovery-patients/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Monish282005/Leetcode/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Monish282005/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0743-network-delay-time](https://github.com/Monish282005/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Monish282005/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -564,25 +566,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Monish282005/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Monish282005/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0743-network-delay-time](https://github.com/Monish282005/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Monish282005/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Monish282005/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Monish282005/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
