@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Monish282005/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Monish282005/Leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/Monish282005/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Monish282005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Monish282005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Monish282005/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Monish282005/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/Monish282005/Leetcode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Monish282005/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Monish282005/Leetcode/tree/master/0216-combination-sum-iii) |
