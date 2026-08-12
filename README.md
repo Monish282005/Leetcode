@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monish282005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Monish282005/Leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monish282005/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Monish282005/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monish282005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Monish282005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Monish282005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monish282005/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Monish282005/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monish282005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 | Problem Name | Difficulty |
