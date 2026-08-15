@@ -2,19 +2,15 @@ class Solution {
     public int maximumLengthSubstring(String s) {
         int maxLen = 0;
         int left = 0;
-        Map<Character, Integer> mp = new HashMap<>();
+        int[] fre = new int[26];
 
         for(int right = 0; right < s.length(); right++){
             char c = s.charAt(right);
-            mp.put(c, mp.getOrDefault(c, 0) + 1);
+            fre[c - 'a']++;
 
-            while(mp.get(c) > 2){
+            while(fre[c - 'a'] > 2){
                 char c2 = s.charAt(left);
-                mp.put(c2, mp.get(c2) - 1);
-                if(mp.get(c2) == 0){
-                    mp.remove(c2);
-                }
-
+                fre[c2 - 'a']--;
                 left++;
             }
 
