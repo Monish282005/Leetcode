@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Monish282005/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Monish282005/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Monish282005/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Monish282005/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Monish282005/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monish282005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Monish282005/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Monish282005/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Monish282005/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Monish282005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Monish282005/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
