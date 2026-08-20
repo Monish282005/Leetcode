@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Monish282005/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Monish282005/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monish282005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Monish282005/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Monish282005/Leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Monish282005/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Monish282005/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Monish282005/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2739-total-distance-traveled](https://github.com/Monish282005/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Monish282005/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Monish282005/Leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Monish282005/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Monish282005/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
